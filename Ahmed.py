@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Raza
+#The Credit For This Code Goes To Sakib Ahmed Surjo
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.07)
 
-#Dev:love_hacker
+#Delove_hacker
 ##### LOGO #####
 logo = """
        \033[1;91m:▒▒▒▒███▒███▒███▒███▒▒▒▒▒▒▒▒▒▒:
@@ -58,12 +58,12 @@ logo = """
    \033[1;95m:::▒▒▒▒▒▒███▒███▒███▒███▒▒▒▒▒▒▒▒▒▒:::::         
   \033[1;96m::♧♧♧♧♧♧♧♧♧♧\033[1;91mWhatsapp\033[1;96m♧♧♧♧♧♧♧♧♧♧▒▒▒▒▒▒▒::::        
   \033[1;91m:》》》\033[1;93m+NE-DENA\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::
-\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-Raza-\033[1;95m♡╭──────────•◈•──────────╮♡
-\033[1;92m..........................RazaCreation......................
+\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-Picchi Sakib-\033[1;95m♡╭──────────•◈•──────────╮♡
+\033[1;92m..........................SakibCreation......................
 \033[1;93m╔╗ ╔╗╔═╦╦╦═╗ ╔╗╔╦═╦╦╗
-\033[1;93m║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║   Raza
+\033[1;93m║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║   Picchi Sakib   
 \033[1;93m╚╝ ╚═╩═╩═╩═╝═ ╚╝╚═╩═╝ 
-\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRaza\033[1;95m♡╰──────────•◈•──────────╯♡"""
+\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mSakib\033[1;95m♡╰──────────•◈•──────────╯♡"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -89,23 +89,23 @@ print  """
  \033[1;96m ┈┈┈┈┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈
  \033[1;96m ┈┈┈┈┈┈┈┈╱▔▔▔▔┊┊┊┊▔▔▔▔╲┈┈┈┈
   \033[1;96m ─────────────•◈•──────────  
-   \033[1;92m███████▒▒Welcome To Raza CREATIONS▒▒████████
-\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mRaza\033[1;95m♡╭──────────•◈•──────────╮♡
+   \033[1;92m███████▒▒Welcome To Sakib Ahmed Surjo  CREATIONS▒▒████████
+\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mSakib\033[1;95m♡╭──────────•◈•──────────╮♡
 \033[1;94mAuthor\033[1;91m: \033[1;91mAcreations
-\033[1;94mRaza\033[1;91m: \033[1;91▒▓██████████████]99.9
+\033[1;94mS     \033[1;91m: \033[1;91▒▓██████████████]99.9
 \033[1;94mFacebook\033[1;91m: \033[1;91mAcreations
 \033[1;94mWhatsapp\033[1;91m: \033[1;91m NE-DENA
-\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRaza\033[1;95m♡╰──────────•◈•──────────╯♡"""
-jalan('              \033[1;96m....................Raza.....................:')
+\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mSakib\033[1;95m♡╰──────────•◈•──────────╯♡"""
+jalan('              \033[1;96m....................Picchi Sakib.....................:')
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈┈┈┈┈   ")
 jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕╲┊┊╱▏▏┈┈┈┈┈┈┈   ')
 jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕▂╱╲▂▏▏┈┈┈┈┈┈┈   ')
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈┈┈ ")
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
-print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin Raza\033[1;95m♡╰──────────•◈•──────────╯♡"
+print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin Picchi Sakib\033[1;95m♡╰──────────•◈•──────────╯♡"
 
-CorrectUsername = "Raza"
-CorrectPassword = "Raza"
+CorrectUsername = "Picchi"
+CorrectPassword = "Sakib"
 
 loop = 'true'
 while (loop == 'true'):
@@ -118,7 +118,7 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UC9je9oH-o4qUsp7NkXn16yQ')
+            os.system('xdg-open https://https://https://www.youtube.com/channel/UCCICe-y4fOpX090BvJRD8vQ')
     else:
         print "\033[1;94mWrong Username"
         os.system('xdg-open https://www.youtube.com/channel/UC9je9oH-o4qUsp7NkXn16yQ')
@@ -133,7 +133,7 @@ def login():
 		print logo
 		jalan(' \033[1;92mWarning: \033[1;97mDo Not Use Your Personal Account' )
 		jalan(' \033[1;92m   Note: \033[1;97mUse a New Account To Login' )
-		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaza\033[1;95m♡──────────•◈•──────────♡"
+		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mSakib Ahmed Surjo\033[1;95m♡──────────•◈•──────────♡"
 		print('	   \033[1;94m♡\x1b[1;91m》》》》》》LOGIN WITH FACEBOOK《《《《《《\x1b[1;94m♡' )
 		print('	' )
 		id = raw_input('\033[1;96m[+] \x1b[1;92mID/Email\x1b[1;95m: \x1b[1;96m')
@@ -269,7 +269,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;96m[♡] \033[1;92mEnter ID\033[1;93m: \033[1;97m")
-		print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mRaza\033[1;95m♡─────────•◈•─────────╯♡"
+		print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mPicchi Sakib\033[1;95m♡─────────•◈•─────────╯♡"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -295,9 +295,9 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;91mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m«-----\x1b[1;93m♡To Stop Process Press CTRL+Z♡\033[1;94m----»"
-	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mRaza\033[1;95m♡─────────•◈•─────────♡"
+	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mPicchi Sakib\033[1;95m♡─────────•◈•─────────♡"
 	jalan(' \033[1;93m ........Cloning Start plzzz Wait.......... ')
-	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mRaza\033[1;95m♡─────────•◈•─────────♡"
+	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mPicchi Sakib\033[1;95m♡─────────•◈•─────────♡"
 	
 			
 	def main(arg):
@@ -416,8 +416,8 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaza\033[1;95m♡──────────•◈•──────────♡"
-	print "  \033[1;93m«---•◈•---Developed By Raza---•◈•---»" #Dev: Hacker_Raza
+	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mPicchi Sakib\033[1;95m♡──────────•◈•──────────♡"
+	print "  \033[1;93m«---•◈•---Developed By Sakib Ahmed Surjo---•◈•---»" #Dev: Hacker_Sakib
 	print '\033[1;91mProcess Has Been Completed\033[1;92m....'
 	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(cekpoint))
 	print """
@@ -427,9 +427,9 @@ def pilih_super():
              [███████████████]
              ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤
 ♡──────────────•◈•──────────────♡.
-: \033[1;96m .....Raza  Creations........... \033[1;93m :
+: \033[1;96m .....Picchi Sakib  Creations........... \033[1;93m :
 ♡──────────────•◈•──────────────♡.' 
-                whatsapp Num
+                whatsapp Num 01300559133
                +NI DENA """
 	
 	raw_input("\n\033[1;92m[\033[1;94mBack\033[1;96m]")
